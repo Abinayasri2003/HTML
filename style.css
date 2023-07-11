@@ -1,0 +1,23 @@
+body{
+    background-color: deepskyblue;
+}
+img
+{
+  align:left;
+}
+h3{
+    background-color: green;
+    size:2m0px;
+}
+button{
+   text-align:right;
+}
+.my-button
+{
+    position:absolute;
+    background-color: blueviolet;
+    color:darkblue;
+    border:radius 4px;
+    top:10px;
+    right:10px;
+}
